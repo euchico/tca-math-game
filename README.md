@@ -1,7 +1,7 @@
 # The C# Academy - Math Game
 
 ![status](https://img.shields.io/badge/status-Em_Andamento-yellow)
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
+[![licence](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
 
 ## Contato
 ### Principal
