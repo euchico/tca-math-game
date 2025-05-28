@@ -17,4 +17,4 @@ Contribuições são sempre bem-vindas! <br>
 Se surgir algum problema, dificuldade ou questionamento, por favor, registre uma [Issue](../../issues).
 
 ## Licença
-MIT License (MIT) 2025 - [Francisco de Paula](https://github.com/euchico/). Consulte a seção [LICENSE](LICENSE) para obter mais detalhes.
+MIT License (c) 2025 - [Francisco de Paula](https://github.com/euchico/). Consulte a seção [LICENSE](LICENSE) para obter mais detalhes.
